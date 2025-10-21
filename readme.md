@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
+- **Nombre completo**: Jeremy Abrahan Masabanda Paucar
+- **Carrera**: Desarrollo de software
 - **Fecha de entrega**: _____________________________
 
 ---
